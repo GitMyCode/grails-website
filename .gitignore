@@ -1,7 +1,7 @@
 # .gitignore for Grails 1.2 and 1.3
 
 # web application files
-/web-app/WEB-INF/classes
+/emma/web-app/WEB-INF/classes
 
 # default HSQL database files for production mode
 /prodDb.*
@@ -23,8 +23,8 @@
 /plugin.xml
 
 # older plugin install locations
-/plugins
-/web-app/plugins
+/emma/plugins
+/emma/web-app/plugins
 
 # "temporary" build files
-/target
+/emma/target
