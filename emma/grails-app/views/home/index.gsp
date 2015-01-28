@@ -15,14 +15,7 @@
 
 <body>
 
-    <h1>
 
-        ${posts[0].title}
-    </h1>
-    <p>
-
-        ${posts[0].content}
-    </p>
 
 
 </body>
